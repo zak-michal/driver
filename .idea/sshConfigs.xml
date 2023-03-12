@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="usosphp.dev.usos.edu.pl" id="127d931c-4841-441c-bd30-d5bd8f0d52b3" port="22" nameFormat="DESCRIPTIVE" username="mz277776" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
